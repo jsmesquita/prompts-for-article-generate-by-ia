@@ -47,30 +47,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines incríveis para um artigo sobre os beneficios de utilizar C# records                                                                                                                                                                                                |
-| conteúdo | Comporte-se como um Desenvolvedor Senior criador de conteúdos e crie um artigo com base no {TITULO} explicando os conceitos de C# records e os benefícios da utilização. Construa blocos de explicação para cada assunto em {BLOCOS} utilizando as {REGRAS} abaixo:
-
-{TITULO}
-C# Records: A Evolução Necessária na Construção de Tipos Imutáveis e Eficientes
-
-{BLOCOS}
-- Introdução aos records
-- Sintaxe posicional para definição de propriedade
-- Imutabilidade
-- Igualdade de valor
-- Mutação não destrutiva com with
-- Formatação interna para exibição
-- Exemplo pratíco de uma DTO
-- Conclusão
-
-{REGRAS}
-
-- O artigo deve seguir uma linguagem simples como se estivesse ensinando uma criança de 10 anos utilizando exemplo de super-heróis
-- A introdução deve ter no máximo 10 linhas explicando o surgimento de records no C# 9, o problema que ele resolve e finalizar com um texto de transição levando o leitor aos assuntos a serem abordados em {BLOCOS}
-- No máximo 5 linhas por assunto em {BLOCOS}
-- Cite exemplos de código para cada assunto em {BLOCOS}
-- Mostre um exemplo de utilização prática de uma DTO em uma WebAPI com exemplo de código e explique em 5 linhas a vantagem desta abordagem com records em aplicações modernas
-- Faça call to action para minhas redes sociais|
+|  título  | Crie 10 headlines incríveis para um artigo sobre os beneficios de utilizar C# records                                                                                                                                                                                          |
+| conteúdo | Comporte-se como um Desenvolvedor Senior criador de conteúdos e crie um artigo com base no {TITULO} explicando os conceitos de C# records e os benefícios da utilização. Construa blocos de explicação para cada assunto em {BLOCOS} utilizando as {REGRAS} abaixo:<br>{TITULO}<br>C# Records: A Evolução Necessária na Construção de Tipos Imutáveis e Eficientes<br><br>{BLOCOS}<br>- Introdução aos records<br>- Sintaxe posicional para definição de propriedade<br>- Imutabilidade<br>- Igualdade de valor<br>- Mutação não destrutiva com with<br>- Formatação interna para exibição<br>- Exemplo pratíco de uma DTO<br>- Conclusão<br><br>{REGRAS}<br><br>- O artigo deve seguir uma linguagem simples como se estivesse ensinando uma criança de 10 anos utilizando exemplo de super-heróis<br>- A introdução deve ter no máximo 10 linhas explicando o surgimento de records no C# 9, o problema que ele resolve e finalizar com um texto de transição levando o leitor aos assuntos a serem abordados em {BLOCOS}<br>- No máximo 5 linhas por assunto em {BLOCOS}<br>- Cite exemplos de código para cada assunto em {BLOCOS}<br>- Mostre um exemplo de utilização prática de uma DTO em uma WebAPI com exemplo de código e explique em 5 linhas a vantagem desta abordagem com records em aplicações modernas<br>- Faça call to action para minhas redes sociais|
 
 
 Lexica.art：
