@@ -4,7 +4,7 @@
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno técnico na plataforma da [DIO](https://dio.me).
 
 
-Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
+Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover autoridade técnica.
 
 <a href="https://dio.me/articles/c-records-a-evolucao-necessaria-na-construcao-de-tipos-imutaveis-e-eficientes" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
